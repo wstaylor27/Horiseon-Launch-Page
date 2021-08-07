@@ -8,7 +8,7 @@ This was my first homework assignment. In order to navigate through this work, o
 
 #Semantics
 
-When initially looking over the html structure, I noticed a ton of <div> tags. I replaced div with nav tag so that the tag could be properly associated with the links. Also nav is a semantic element making it easier to search through the entire code. I did the same for the header, main, aside and sections.
+When initially looking over the html structure, I noticed a ton of div tags. I replaced div with nav tag so that the tag could be properly associated with the links. Also nav is a semantic element making it easier to search through the entire code. I did the same for the header, main, aside and sections.
   
 #Links
   
