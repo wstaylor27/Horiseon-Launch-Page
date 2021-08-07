@@ -15,5 +15,6 @@ When initially looking over the html structure, I noticed a ton of <div> tags. I
 In the header, I noticed there was a # in the href. This # is associated with an id. In the main below, two of the three elements have ids. I inserted an id for seo so that the link would become active.
  
 #Misc
+  
 Comments were added for clarity. I also added some spacing for legibility purposes.  
 
