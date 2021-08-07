@@ -1,8 +1,8 @@
 # Horiseon-Launch-Page
-HW-1
+<h2>HW-1</h2>
 
 
-#Introduction
+<h3>Introduction</h3>
 
 This was my first homework assignment. In order to navigate through this work, one must understand that all website pages are not created equally. There will be inoperable links, bizarre formating, and redundant classes. The objective of the homework was to identify the issues, correct them and ensure the code is legible.To begin, I read both html and css files. I wanted to understand the relationship between the files and how the elements reacted.
 
